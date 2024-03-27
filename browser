@@ -10,3 +10,6 @@ driver.get("URL");
 WebDriverManager.chromedriver().setup();
 WebDriver driver =new ChromeDriver();
 driver.get();
+
+// throw and throws >> Different >> 
+// try and catch >> Exception will be handled 

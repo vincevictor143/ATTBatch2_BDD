@@ -2,7 +2,7 @@ Feature: HomePage Functionality
 
 Scenario: Validate Title 
 Given user is at landing page 
-Then page title should contain the "shopping"
+Then page title should contain the "Shopping"
 
 Scenario: Verify the cart icon 
 Given user is at landing page

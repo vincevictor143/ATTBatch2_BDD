@@ -1,0 +1,7 @@
+// browser launch first way 
+
+system.setProperty("","")
+WebDriver driver=new ChromeDriver()
+
+WebDriverManager.chromeDriver().setup();
+WebDriver driver=new ChromeDriver()
